@@ -1,0 +1,30 @@
+.UserTable .css-rqglhn-MuiTable-root {
+    width: 90%;
+    margin: auto;
+}
+
+.UserTable .css-dsuxgy-MuiTableCell-root {
+    padding: 6px 6px !important;
+}
+
+.css-79ws1d-MuiModal-root {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+.ModelStyle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    background-color: white;
+    border: 1px solid #000;
+    padding: 10px;
+    /* box-shadow: 24; */
+}
+
+.css-1u3bzj6-MuiFormControl-root-MuiTextField-root {
+margin: 0px 5px 10px 5px !important;
+}
